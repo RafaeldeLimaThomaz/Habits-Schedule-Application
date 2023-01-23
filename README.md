@@ -4,7 +4,7 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 ## Welcome Screen  <br>
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="35%" height="35%" />    
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="40%" height="40%" />    
   
  <br>
   
@@ -16,7 +16,7 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 The habit tracking screen is similar to the github activity log, the more habits completed, the brighter the log for that day. <br><br>
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/01.gif "  width="35%" height="35%" />  
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/01.gif "  width="40%" height="40%" />  
 <br>
   
 
@@ -25,7 +25,7 @@ The habit tracking screen is similar to the github activity log, the more habits
 
 Creating a new habit is super easy. Type habit's title and how often you want to commit (Mondays, Tuesdays, ...) <br><br>
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/02.gif "  width="30%" height="30%" />
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/02.gif "  width="40%" height="40%" />
 <br>
   
   
@@ -35,7 +35,7 @@ Creating a new habit is super easy. Type habit's title and how often you want to
 
 Checking and unchecking accomplishments changes the progress bar, but remember, you are not allowed to cheat by checking or unchecking on past days. <br><br> 
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="30%" height="30%" />  
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="40%" height="40%" />  
   
 <br>
  
