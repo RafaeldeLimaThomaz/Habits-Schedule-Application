@@ -23,7 +23,7 @@ The habit tracking screen is similar to the github activity log, the more habits
 
 ## Add New Habit <br>
 
-Creating a new habit is super easy. Type habit's title and how often you want to commit (Mondays, Tuesdays, ...) <br> 
+Creating a new habit is super easy. Type habit's title and how often you want to commit (Mondays, Tuesdays, ...) <br><br>
 
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/02.gif "  width="30%" height="30%" />
 <br>
@@ -33,7 +33,7 @@ Creating a new habit is super easy. Type habit's title and how often you want to
 
 ## Monitoring <br>
 
-Checking and unchecking accomplishments changes the progress bar, but remember, you are not allowed to cheat by checking or unchecking on past days. <br> 
+Checking and unchecking accomplishments changes the progress bar, but remember, you are not allowed to cheat by checking or unchecking on past days. <br><br> 
 
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="30%" height="30%" />  
   
