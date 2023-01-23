@@ -39,7 +39,8 @@ Checking and unchecking accomplishments changes the progress bar, but remember, 
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="30%" height="30%" />  
   
     
-    
+ <br><br>
+ 
   
     
     
