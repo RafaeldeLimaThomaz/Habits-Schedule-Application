@@ -16,9 +16,21 @@ The habit tracking screen is similar to the github activity log, the more habits
 
 ## Add New Habit 
 
+Creating a new habit is super easy. Type habit's title and how often you want to commit (Mondays, Tuesdays, ...) 
+
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/02.gif "  width="30%" height="30%" />
 
 
 ## Monitoring 
 
+Checking and unchecking accomplishments changes the progress bar, but remember, you are not allowed to cheat by checking or unchecking on past days.  
+
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="30%" height="30%" />
+
+
+To be released:
+
+✓ Tasks/Habits for one single day, not repeating weekly
+✓ Social Auth (Firebase)
+
+
