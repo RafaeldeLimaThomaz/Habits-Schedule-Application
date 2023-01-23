@@ -4,7 +4,10 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 ## Welcome Screen  
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="30%" height="30%" />  
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="30%" height="30%" />    
+  
+  
+  
 
 
 
@@ -34,6 +37,9 @@ Creating a new habit is super easy. Type habit's title and how often you want to
 Checking and unchecking accomplishments changes the progress bar, but remember, you are not allowed to cheat by checking or unchecking on past days.  
 
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/03.gif "  width="30%" height="30%" />  
+  
+    
+    
   
     
     
