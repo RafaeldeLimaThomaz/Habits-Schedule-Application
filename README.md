@@ -14,7 +14,7 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 ## Habit Tracking <br>
 
-The habit tracking screen is similar to the github activity log, the more habits completed, the brighter the log for that day. <br>
+The habit tracking screen is similar to the github activity log, the more habits completed, the brighter the log for that day. <br><br>
 
 <img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/01.gif "  width="30%" height="30%" />  
 <br>
