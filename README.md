@@ -2,6 +2,7 @@
 
 This application allows users to plan, add and monitor their habit routine. Web and mobile versions available.
 
+## Habit Treacking  
 
 The habit tracking screen is similar to the github activity log, the more habits completed, the brighter the log for that day.
 
