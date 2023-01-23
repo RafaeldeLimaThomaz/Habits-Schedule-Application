@@ -4,7 +4,7 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 ## Welcome Screen  <br>
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="30%" height="30%" />    
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/welcome_screen.jpg "  width="35%" height="35%" />    
   
  <br>
   
@@ -16,7 +16,7 @@ This application allows users to plan, add and monitor their habit routine. Web 
 
 The habit tracking screen is similar to the github activity log, the more habits completed, the brighter the log for that day. <br><br>
 
-<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/01.gif "  width="30%" height="30%" />  
+<img src="https://github.com/RafaeldeLimaThomaz/Habits-Schedule-Application/blob/master/readme_assets/01.gif "  width="35%" height="35%" />  
 <br>
   
 
